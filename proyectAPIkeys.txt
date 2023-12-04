@@ -1,0 +1,5 @@
+#API Keys
+
+AWS: 459fcfa4-4a88-4133-84e2-ec93166b7e10
+Google: 9762badd-ca85-4392-8940-8e963c8c18bc
+ElasticSearch: 77ccec14-a8de-4faa-8b44-a471dc2b8892
