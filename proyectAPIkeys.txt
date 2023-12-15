@@ -1,4 +1,4 @@
-#API Keys
+#API Keys for Laboral Kutxa
 
 AWS: 459fcfa4-4a88-4133-84e2-ec93166b7e10
 Google: 9762badd-ca85-4392-8940-8e963c8c18bc
